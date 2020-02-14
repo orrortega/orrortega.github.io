@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Dan Simpson's research
+description: Oscar Rodriguez de Rivera's research
 ---
 
 <b>All of my papers can be found on my [Google Scholar page](https://scholar.google.com/citations?user=kttZf6oAAAAJ&hl=en). </b>
