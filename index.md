@@ -50,7 +50,7 @@ Please contact me if you're looking for collaboration.
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
-          <li><a href="https://github.com/dpsimpson">GitHub</a></li>
+          <li><a href="https://github.com/orrortega">GitHub</a></li>
 
       </ul>
   </div>
