@@ -4,7 +4,7 @@ title: Research
 description: Dan Simpson's research
 ---
 
-<b>All of my papers can be found on my [https://scholar.google.com/citations?user=kttZf6oAAAAJ&hl=en&oi=sra]. </b>
+<b>All of my papers can be found on my [Google Scholar page](https://scholar.google.com/citations?user=kttZf6oAAAAJ&hl=en). </b>
 
 
 ## Summary of contributions
