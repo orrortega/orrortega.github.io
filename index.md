@@ -10,15 +10,15 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
 
     <div class="row-fluid">
         <div class="span5">
-            Dan Simpson<br/>
-            Email: simpson@utstat.toronto.edu<br/>
-            Office: Sidney Smith 6026A
+            Oscar Rodriguez de Rivera Ortega<br/>
+            Email: o.ortega@kent.ac.uk<br/>
+            Office: SMSA, University of Kent, Canterbury
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Dan Simpson" alt="Dan Simpson"/></a>
+                  title="Oscar Rodriguez de Rivera" alt="Oscar Rodriguez de Rivera"/></a>
         </div>
     </div>
 </div>
@@ -33,7 +33,6 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 
 ### Bio sketch
-I have made major contributions to the understanding of computationally efficient methods in spatial statistics, and of how to specify prior distributions for complex Bayesian models. I have been a maintainer and developer on both the [R-INLA](http://r-inla.org/) and [Stan](http://mc-stan.org/) projects, which are widely used open source software projects popular in the applied statistics and scientific communities. I have also been a member of Stan’s leadership bodies, first the NumFOCUS board and then the Stan Governing Board that grew out from it.
 
 Prior to my commencement at the University of Kent, I have spent most of the time in industry as a Data Scientist and Data Analyst. I developed my PhD studies at the University of Valencia (Spain) (https://dialnet.unirioja.es/servlet/tesis?codigo=212822). Previously I study a MSc in Biostatistics at the Univeristy of Valencia (Spain) and a BEng in Forest Engineering at the University of Oviedo (Spain).
 
