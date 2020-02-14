@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Daniel Simpson
-description: Daniel Simpson is the Canada Research Chair in Spatiotemporal Modelling  and an Assistant Professor in the Department of Statistical Sciences at the University of  Toronto.
-keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computational statistics, Applied Statistics
+title: Oscar Rodriguez de Rivera Ortega
+description: Oscar Rodriguez de Rivera Ortega is a Posdoctoral Research Associate at SE@K at the University of Kent.
+keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Models, Spatial statistics, Applied Statistics
 ---
 
 <div class="container">
@@ -24,28 +24,23 @@ keywords: Bayesian modelling, Spatial statistics, Prior distributions, Computati
 </div>
 ---
 
-I am the Canada Research Chair in Spatiotemporal Modelling and an Assistant Professor in the Department of Statistical Sciences at the University of Toronto. My research interests include
-- Spatial and spatiotemporal models with computationally efficient Gaussian random fields (Gaussian processes),
-- Methods for building and assessing Bayesian models, including prior specification, model criticism, and model checking.
-- Computational statistics, including approximate inference methods (such as INLA), Markov chain Monte Carlo methods, and methods for assessing the quality of approximations to posterior distributions.
-- Applications of statistics in environmental science (specifically modelling air quality) and global health (specifically modelling global maternal cause of death on a global scale).
+I am Postdoctoral Research Associate at the University of Kent working in the EPSRC project 'Modelling removal and re-introduction data for improved conservation' with Dr Rachel McCrea. My research interests include
+- Spatial and spatiotemporal models applied to species distribution.
+- Understanding effects and causality of environmental disturbances such as forest fires, pests, pollutants and climate change.
+- Applications of statistics in environmental science, conservation.
 
-All of my papers can be found on my [Google Scholar page](https://scholar.google.co.uk/citations?user=oQIKmWUAAAAJ&hl=en) and most are available on [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Daniel+Simpson&terms-0-field=author&classification-physics_archives=all&classification-statistics=y&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&size=50&order=-announced_date_first).
+All of my papers can be found on my [Google Scholar page](https://scholar.google.com/citations?user=kttZf6oAAAAJ&hl=en).
 
-Considerably less serious writing, which mostly consists of strange jokes that only I find funny, can be found [on Andrew Gelman's blog](https://statmodeling.stat.columbia.edu/author/simpson/), which I inexplicably have the keys to.
 
 ### Bio sketch
 I have made major contributions to the understanding of computationally efficient methods in spatial statistics, and of how to specify prior distributions for complex Bayesian models. I have been a maintainer and developer on both the [R-INLA](http://r-inla.org/) and [Stan](http://mc-stan.org/) projects, which are widely used open source software projects popular in the applied statistics and scientific communities. I have also been a member of Stan’s leadership bodies, first the NumFOCUS board and then the Stan Governing Board that grew out from it.
 
-Prior to my commencement at the University of Toronto, I was a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) (a weird UK academic grade that simultaneously maps to full professor in the US and Associate Professor in Australia because why should words have meaning) at the University of Bath in the UK. I held postdoctoral positions at the  University of Warwick (CRiSM Fellow), the Norwegian University of Science and Technology (NTNU), University of Helsinki, and Umeå University.
+Prior to my commencement at the University of Kent, I have spent most of the time in industry as a Data Scientist and Data Analyst. I developed my PhD studies at the University of Valencia (Spain) (https://dialnet.unirioja.es/servlet/tesis?codigo=212822). Previously I study a MSc in Biostatistics at the Univeristy of Valencia (Spain) and a BEng in Forest Engineering at the University of Oviedo (Spain).
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
-### Potential grad students and postdocs
-The PhD program in the Department of Statistics at the Univeristy of Toronto has a centralized application system. [The details can be found here.](https://www.statistics.utoronto.ca/graduate/phd-application-information) If you want to chat about potential PhD projects, please feel free to email me, but I have no control over admissions.
-
-Please contact me if you're looking for a postdoctoral position as I may have funding available.
+Please contact me if you're looking for collaboration.
 
 ---
 
