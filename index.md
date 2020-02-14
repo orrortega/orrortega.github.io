@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Oscar Rodriguez de Rivera Ortega
-description: Oscar Rodriguez de Rivera Ortega is a Posdoctoral Research Associate at SE@K at the University of Kent.
+title: Oscar Rodriguez de Rivera
+description: Oscar Rodriguez de Rivera is a Posdoctoral Research Associate at SE@K at the University of Kent.
 keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Models, Spatial statistics, Applied Statistics
 ---
 
