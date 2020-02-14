@@ -34,7 +34,7 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 ### Bio sketch
 
-Prior to my commencement at the University of Kent, I have spent most of the time in industry as a Data Scientist and Data Analyst. I developed my PhD studies at the University of Valencia (Spain) (https://dialnet.unirioja.es/servlet/tesis?codigo=212822). Previously I study a MSc in Biostatistics at the Univeristy of Valencia (Spain) and a BEng in Forest Engineering at the University of Oviedo (Spain).
+Prior to my commencement at the University of Kent, I have spent most of the time in industry as a Data Scientist and Data Analyst. I developed my PhD studies at the University of Valencia (Spain). Previously I studed a MSc in Biostatistics at the University of Valencia (Spain) and a BEng in Forest Engineering at the University of Oviedo (Spain).
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -51,7 +51,7 @@ Please contact me if you're looking for collaboration.
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
           <li><a href="https://github.com/orrortega">GitHub</a></li>
-
+          <li><a href="https://www.researchgate.net/profile/Oscar_Rodriguez_De_Rivera2">ResearchGate</a></li>
       </ul>
   </div>
 </div>
