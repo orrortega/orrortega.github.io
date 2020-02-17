@@ -16,8 +16,8 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/headshot1.jpg">
+            <img src="../assets/headshot1.jpg"
                   title="Oscar Rodriguez de Rivera" alt="Oscar Rodriguez de Rivera"/></a>
         </div>
     </div>
