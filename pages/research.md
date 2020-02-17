@@ -24,7 +24,7 @@ Rodríguez de Rivera, Ó. (2010). Inventario entomológico del parque nacional m
 ---
 <u>Books
 
-Rodríguez de Rivera, Ó., Angulo, I. Cobos, P. (2015). Lepidópteros Diurnos del Parque Nacional Marítimo Terrestre de las Islas Atlánticas de Galicia. Organismo Autónomo de Parques Nacionales. 151pp. ISBN: 9788480148825
+Rodríguez de Rivera, Ó., Angulo, I., & Cobos, P. (2015). Lepidópteros Diurnos del Parque Nacional Marítimo Terrestre de las Islas Atlánticas de Galicia. Organismo Autónomo de Parques Nacionales. 151pp. ISBN: 9788480148825
 
 ---
 <u>Conference or workshop
