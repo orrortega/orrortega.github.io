@@ -36,7 +36,7 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 I developed my PhD studies at the University of Valencia (Spain). Previously I studed a MSc in Biostatistics at the University of Valencia (Spain) and a BEng in Forest Engineering at the University of Oviedo (Spain).
 
-During my Degree Thesis, titled "Nocturnal Lepidoptera inventory of Atlantic Islands National Park (Cíes, Ons, Sálvora y Cortegada) (Galicia, Spain)", I started to have interest in analyse ecological data through a Statistical approach, for that reason I enrolled the MSc in Biostatistics at the University of Valencia. At the begining of my PhD I realised the interest of spatial and spatio temporal models to understand species distribution models, being one of my current interests and passions.
+During my Degree Thesis, titled "Nocturnal Lepidoptera inventory of Atlantic Islands National Park (Cíes, Ons, Sálvora y Cortegada) (Galicia, Spain)", I started to have interest in analyse ecological data through a Statistical approach, for that reason I enrolled the MSc in Biostatistics at the University of Valencia. At the begining of my PhD studies I realised the importance of spatial and spatio temporal models to understand species distribution models, being one of my current interests and passions.
 
 Prior to my commencement at the University of Kent, I have spent most of the time in industry as a Data Scientist and Data Analyst. However, not only I have worked "behind the desk", but also I have done several field work. I have worked in entomological and amphibians and reptiles inventories, environmental flow regimes, forest health, crop management, etc.
 
