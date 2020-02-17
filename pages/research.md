@@ -27,9 +27,9 @@ Rodríguez de Rivera, Ó., Angulo, I. Cobos, P. (2015). Lepidópteros Diurnos de
 ---
 <u>Conference or workshop
 
-Rodríguez de Rivera, Ó., Blangiardo, M., & López-Quílez, A. (2015). Using SPDE for species distribution in ecology. Autumn meeting on Latent Gaussian Models, 2015.
+Rodríguez de Rivera, Ó., Blangiardo, M., & López-Quílez, A. Using SPDE for species distribution in ecology. Autumn meeting on Latent Gaussian Models, 2015.
 
-Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality. In: British Ecological Society Meeting (BES2019).
+Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. A spatio-temporal model to understand forest fires causality. In: British Ecological Society Meeting, 2019 (BES2019).
 
 ---
 
