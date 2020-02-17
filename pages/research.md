@@ -9,7 +9,7 @@ description: Oscar Rodriguez de Rivera's research
 
 ## Summary of contributions
 
-<s>Papers Published
+<u>Papers Published
 
 de Rivera, O. R., Blangiardo, M., López-Quílez, A., & Martín-Sanz, I. (2019). Species distribution modelling through Bayesian hierarchical approach. Theoretical Ecology, 12(1), 49-59.
 
@@ -17,9 +17,9 @@ Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2018). Assessin
 
 Rivera, Ó. R. D., & López-Quílez, A. (2017). Development and comparison of species distribution models for forest inventories. ISPRS International Journal of Geo-Information, 6(6), 176.
 
-<s>Conference or workshop item
+<u>Conference or workshop item
 
-<s>Forthcoming
+<u>Forthcoming
 
 Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality
 in Europe.
