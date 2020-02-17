@@ -10,8 +10,10 @@ description: Oscar Rodriguez de Rivera's research
 ## Summary of contributions
 
 <u>Papers Published
-
+  
 de Rivera, O. R., Blangiardo, M., López-Quílez, A., & Martín-Sanz, I. (2019). Species distribution modelling through Bayesian hierarchical approach. Theoretical Ecology, 12(1), 49-59.
+
+Rodríguez de Rivera, Ó. (2019). Spacio temporal modeling of species distribution. PhD Thesis. University of Valencia.
 
 Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2018). Assessing the spatial and spatio-temporal distribution of forest species via Bayesian hierarchical modeling. Forests, 9(9), 573.
 
