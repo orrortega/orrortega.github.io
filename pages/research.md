@@ -24,6 +24,7 @@ Rodríguez de Rivera, Ó. (2010). Inventario entomológico del parque nacional m
 
 Rodríguez de Rivera, Ó., Angulo, I. Cobos, P. (2015). Lepidópteros Diurnos del Parque Nacional Marítimo Terrestre de las Islas Atlánticas de Galicia. Organismo Autónomo de Parques Nacionales. 151pp. ISBN: 9788480148825
 
+---
 <u>Conference or workshop
 
 Rodríguez de Rivera, Ó., Blangiardo, M., & López-Quílez, A. (2015). Using SPDE for species distribution in ecology. Autumn meeting on Latent Gaussian Models, 2015.
@@ -33,7 +34,7 @@ Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio
 ---
 
 <u>Forthcoming
-
+  
 Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality
 in Europe.
 
