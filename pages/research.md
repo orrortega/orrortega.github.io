@@ -19,6 +19,8 @@ Rivera, Ó. R. D., & López-Quílez, A. (2017). Development and comparison of sp
 
 <u>Conference or workshop item
 
+Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality. In: British Ecological Society Meeting (BES2019).
+
 <u>Forthcoming
 
 Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality
