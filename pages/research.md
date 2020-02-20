@@ -37,10 +37,24 @@ Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. A spatio-tempora
 
 <u>Forthcoming
   
-Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality
-in Europe.
+    <u>Papers
+    
+Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality in Europe.
 
-Rodríguez de Rivera, Ó., McCrea, R. (2020). Removal modelling in ecology.
+Rodríguez de Rivera, Ó., & McCrea, R. (2020). Removal modelling in ecology. PLOS ONE.
+
+Espinosa, J., Rodríguez de Rivera, Ó., Madrigal, J., Guijarro, M., & Hernando, C. (2020). Assessing the influence of meteorological conditions, tree traits of resistance and prescribed burning behaviour variables on litterfall biomass through a Bayesian hierarchical approach. Annals of Forest Science.
+
+Espinosa, J., Rodríguez de Rivera, Ó., Madrigal, J., Guijarro, M., & Hernando, C. (2020). Predicting potential cambial damage and fire resistance of Pinus nigra Arn. Sub-species salzmannii. Forest Ecology and Management. 
+
+
+    <u>Conference
+    
+Rodríguez de Rivera, Ó. The Importance of spatio-temporal modelling in Ecology. In: Royal Society of Statistics Meeting 2020.
+
+Rodríguez de Rivera, Ó et al. Methodological developments for removal models. In: International Statistical Ecology Conference 2020.
+
+Rodríguez de Rivera, Ó. Effects of urban trees in pollution in London. In: The International Environmetrics Society Conference 2020.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
