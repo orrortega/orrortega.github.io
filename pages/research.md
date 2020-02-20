@@ -37,7 +37,7 @@ Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. A spatio-tempora
 
 <u>Forthcoming
   
-    <u>Papers
+---<u>Papers
     
 Rodríguez de Rivera, Ó., López-Quílez, A., & Blangiardo, M. (2020). A spatio-temporal model to understand forest fires causality in Europe.
 
@@ -48,7 +48,7 @@ Espinosa, J., Rodríguez de Rivera, Ó., Madrigal, J., Guijarro, M., & Hernando,
 Espinosa, J., Rodríguez de Rivera, Ó., Madrigal, J., Guijarro, M., & Hernando, C. (2020). Predicting potential cambial damage and fire resistance of Pinus nigra Arn. Sub-species salzmannii. Forest Ecology and Management. 
 
 
-    <u>Conference
+---<u>Conference
     
 Rodríguez de Rivera, Ó. The Importance of spatio-temporal modelling in Ecology. In: Royal Society of Statistics Meeting 2020.
 
