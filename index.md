@@ -34,11 +34,13 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 ### Bio sketch
 
-I developed my PhD studies at the University of Valencia (Spain). Previously I studed a MSc in Biostatistics at the University of Valencia (Spain) and a BEng in Forest Engineering at the University of Oviedo (Spain).
+Since June 2019, I am a postdoctoral researcher in statistics, at the Statistical Ecology group at the University of Kent, UK.
 
-During my Degree Thesis, titled "Nocturnal Lepidoptera inventory of Atlantic Islands National Park (Cíes, Ons, Sálvora y Cortegada) (Galicia, Spain)", I started to have interest in analyse ecological data through a Statistical approach, for that reason I enrolled the MSc in Biostatistics at the University of Valencia. At the begining of my PhD studies I realised the importance of spatial and spatio temporal models to understand species distribution models, being one of my current interests and passions.
+Between 2013 and 2018, I did my PhD in Statistics at the School of Mathematics of the University of Valencia, under the supervision of Antonio Lopez-Quilez and Marta Blangiardo. I worked on Spatio Temporal models of Species distribution. My thesis is available online: Spacio temporal modeling of species distribution.
 
-Prior to my commencement at the University of Kent, I have spent most of the time in industry as a Data Scientist and Data Analyst. However, not only I have worked "behind the desk", but also I have done several field work. I have worked in entomological and amphibians and reptiles inventories, environmental flow regimes, forest health, crop management, etc.
+In 2013, I finished a MSc in Biostatistics at the University of Valencia doing my dissertation in species distribution models with forest trees species. In 2010 I graduated in BEng in Forest Engineering at the University of Oviedo, I focused my dissertation in nocturnal Lepidoptera. The thesis is available online (sorry only Spanish version): Nocturnal Lepidoptera inventory of Atlantic Islands National Park (Cíes, Ons, Sálvora y Cortegada) (Galicia, Spain). 
+
+I worked in industry at the same time I was doing my PhD working as Data analyst and Data Scientist. Previously, I worked as forest engineer in several positions not only in academia (I've worked as Research assistant in Entomology at the Polytechnic University of Madrid), but also I have experience in field working on several positions such as technician in forest fires, inventories or project manager in the project: "cultivation of fruit trees in rainfed areas in northern Morocco".
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
