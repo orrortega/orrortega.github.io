@@ -34,7 +34,7 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 ### Bio sketch
 
-Since June 2019, I am a postdoctoral researcher in statistics, at the Statistical Ecology group at the University of Kent, UK.
+Since June 2019, I am a Postdoctoral Researcher in Statistics, at the Statistical Ecology group at the University of Kent, UK.
 
 Between 2013 and 2018, I did my PhD in Statistics at the School of Mathematics of the University of Valencia, under the supervision of Antonio Lopez-Quilez and Marta Blangiardo. I worked on Spatio Temporal models of Species distribution. My thesis is available online: Spacio temporal modeling of species distribution.
 
