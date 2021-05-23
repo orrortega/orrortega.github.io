@@ -69,7 +69,7 @@ Juncal Espinosa, **Oscar Rodriguez de Rivera**, Javier Madrigal, Mercedes Guijar
 **Statistical Ecology Research Festival**. Jul. 2016. Spatio temporal modelling of species distribution.
 
 **Autumn Meeting on Latent Gaussian Models**. Sep. 2015. Using SPDE for species distribution in Ecology.
----
+
 
 <u>Forthcoming
   
