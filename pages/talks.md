@@ -4,23 +4,55 @@ title: Talks
 description: Some research talks
 ---
 
-Under Construction
-----
+<u>Conference or workshop
+      
+**Bayesian Statistics for Ecologists with INLA and inlabru**. April 2022 (5 days)
+      PhD training activity specially aimed at students from the Agro-Forestry and Environment Doctoral Area. (online)
+      
+**Statistics for natural resources** (2nd edition). December 2021 (5 days)
+      PhD training activity specially aimed at students from the Agro-Forestry and Environment Doctoral Area. (online)      
+      
+**Statistics for natural resources**. November 2020 (5 days)
+      PhD training activity specially aimed at students from the Agro-Forestry and Environment Doctoral Area. (online)
 
-<b>Statistical curiosity: Same problems, different solutions (Apr-2020). Universidad Politectnica de Madrid.
+**Royal Statistical Society Conference** Sep. 2020. The Importance of spatio-temporal modelling in Ecology.
 
----
-<b>Spatial and spatio-temporal models to understand ecological processes (Oct-2019). University of Leeds.
+**Polytechnic University of Madrid. PhD in Advanced Forest Research seminar series**. May. 2021. Spatio temporal models in Ecology
+      
+**Newcastle University**. April. 2021. Spatio temporal models in Ecology
+
+**National Centre for Statistical Ecology**. March. 2021. Joint Species Distribution Modelling with HMSC: Community matters
+
+**Polytechnic University of Madrid. PhD in Advanced Forest Research seminar series**. May. 2020. Creative Statistics.
   
-Climatic change is expected to affect forest development in the short term, as well as the spatial distribution of species in the long term. The aim of this presentation is to study ecological processes from different perspectives and to analyse the different approaches to this problem. We apply spatio-temporal models based on Gaussian processes, which have been successfully applied in other disciplines. In order to fit the Bayesian model, instead of the common Markov Chain Monte Carlo (MCMC) method, we have used the novel integrated nested Laplace approximation (INLA), through the Stochastic Partial Differential Equation (SPDE) approach. This approach can be easily implemented, providing good results with less computation than MCMC. This model can be expanded to the spatio-temporal domain, including new parameters that reflect linear, nonlinear, autoregressive or more complex behaviours. Bayesian approach shows more flexibility, and the inclusion of the spatial field or the latent spatio-temporal process allows including residuals as a proxy for unmeasured variables. Spatial and spatio-temporal Bayesian models are a really interesting approach for the understanding of environmental dynamics, not only because of the possibility to develop and solve more complex problems but also because of the transparent implementation.
-
----
-<b>Understanding forest ecosystems through Bayesian hierarchical approach (Jan-2019). Universidad Politectnica de Madrid.
-
----
-<b>Spatio temporal modeling of species distribution (Jan-2019). ICMAT (Instituto de Ciencias Matematicas).
+**University of Leeds. Mathematical-Biology-Medicine (MBM) seminar series***. Oct. 2019. Spatial and Spatio-Temporal Models To Understand Ecological Processes
   
----
+**Polytechnic University of Madrid. PhD in Advanced Forest Research seminar series**. Jan. 2019. Understanding forest ecosystems through Bayesian hierarchical approach}
+
+**Mathematical Sciences Institute. Spanish National Research Council**. Jan. 2019. Spatio temporal modelling of species distribution
+  
+**Forest Research Center. Spanish National Research Council**. Apr. 2018. Spatial and Spatio temporal models of species distribution and their applications
+
+
+---<u>Contributed talks
+      
+**International Conference of Geostatistics for Environmental Applications**. Jun. 2022. A marked point‐process spatio temporal model to understand forest fires in the Mediterranean basin.
+      
+**Spanish Conference on Statistics and Operations Research**. Jun. 2022. Joint spatial models to understand complex ecological processes.
+
+**British Ecological Society Meeting**. Dec. 2021. Strangers in the night: applying HSMC to light trap community data.
+
+**Royal Statistical Society Conference**. Sep. 2021. Joint Species Distribution Modelling with HMSC: Community matters
+
+**International Statistical Ecology Conference (ISEC)**. Jun. 2020. Assessing the Spatio-Temporal Distribution of Invasive Species.
+
+**BES Quantitative Ecology Online Meeting 2020**. Jul. 2020. A Spatio-Temporal Model of Areal Data for Species Distribution.
+
+**British Ecological Society Meeting**. Dec. 2019.A Spatio-Temporal Model to Understand Forest Fires Causality.
+
+**Statistical Ecology Research Festival**. Jul. 2016. Spatio temporal modelling of species distribution.
+
+**Autumn Meeting on Latent Gaussian Models**. Sep. 2015. Using SPDE for species distribution in Ecology.
 .-->
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
