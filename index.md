@@ -24,7 +24,7 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
 </div>
 ---
 
-I am Postdoctoral Research Associate at the University of Kent working in the EPSRC project 'Modelling removal and re-introduction data for improved conservation' with Dr Rachel McCrea. My research interests include
+I am Statistical Ecologist working as a Lecturer in Statistics at the University of Kent. My research involves the devel‐ opment and use of complex spatio‐temporal statistical models, geographic information systems (GIS), and working collaboratively in a multi‐disciplinary environment.
 - Spatial and spatio temporal models applied to species distribution.
 - Understanding effects and causality of environmental disturbances such as forest fires, pests, pollutants and climate change.
 - Applications of statistics in environmental science and conservation.
@@ -34,7 +34,7 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 ### Bio sketch
 
-Since June 2019, I am a Postdoctoral Researcher in Statistics, at the Statistical Ecology group at the University of Kent, UK.
+Since June 2019, I am working at the University of Kent first as a Postdoctoral Researcher in Statistics, at the Statistical Ecology group and since 2021 as Lecturer in Statistics (temporary contract - teaching focus).
 
 Between 2013 and 2018, I did my PhD in Statistics at the School of Mathematics of the University of Valencia, under the supervision of Antonio Lopez-Quilez and Marta Blangiardo. I worked on Spatio Temporal models of Species distribution. My thesis is available online: Spacio temporal modeling of species distribution.
 
