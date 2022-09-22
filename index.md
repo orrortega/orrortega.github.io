@@ -24,7 +24,10 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
 </div>
 ---
 
-I am Statistical Ecologist working as a Lecturer in Statistics at the University of Kent. My research involves the devel‐ opment and use of complex spatio‐temporal statistical models, geographic information systems (GIS), and working collaboratively in a multi‐disciplinary environment.
+I am Statistical Ecologist working as a Lecturer in Statistics at the University of Kent. My research involves the deveopment and use of complex spatio‐temporal statistical models, geographic information systems (GIS), and working collaboratively in a multi‐disciplinary environment.
+
+My research interests include:
+
 - Spatial and spatio temporal models applied to species distribution.
 - Understanding effects and causality of environmental disturbances such as forest fires, pests, pollutants and climate change.
 - Applications of statistics in environmental science and conservation.
