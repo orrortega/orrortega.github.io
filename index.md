@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Oscar Rodriguez de Rivera
-description: Oscar Rodriguez de Rivera is a Posdoctoral Research Associate at SE@K at the University of Kent.
+description: Oscar Rodriguez de Rivera is a Lecturer in Statistics at SE@K at the University of Kent.
 keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Models, Spatial statistics, Applied Statistics
 ---
 
@@ -14,7 +14,7 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
             Email: o.ortega@kent.ac.uk<br/>
             Office: SMSA, University of Kent, Canterbury
         </div>
-        <div class="span3">
+        <div class="span5">
         <a href="../assets/headshot1.jpeg">
             <img src="../assets/headshot1.jpeg" width = "150" height = "150"
                   title="Oscar Rodriguez de Rivera" alt="Oscar Rodriguez de Rivera"/></a>
