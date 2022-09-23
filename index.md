@@ -14,7 +14,7 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
             Email: o.ortega@kent.ac.uk<br/>
             Office: SMSA, University of Kent, Canterbury
         </div>
-        <div class="span1">
+        <div class="span3">
         <a href="../assets/headshot1.jpeg">
             <img src="../assets/headshot1.jpeg" width = "150" height = "150"
                   title="Oscar Rodriguez de Rivera" alt="Oscar Rodriguez de Rivera"/></a>
