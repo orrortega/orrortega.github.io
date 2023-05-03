@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Oscar Rodriguez de Rivera
-description: Oscar Rodriguez de Rivera is Lecturer in Statistics at SE@K at the University of Kent.
+description: Oscar Rodriguez de Rivera is Lecturer in Statistics at the University of Exeter.
 keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Models, Spatial statistics, Applied Statistics
 ---
 
@@ -11,8 +11,8 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
     <div class="row-fluid">
         <div class="span5">
             Oscar Rodriguez de Rivera Ortega<br/>
-            Email: o.ortega@kent.ac.uk<br/>
-            Office: SMSA, University of Kent, Canterbury
+            Email: o.m.rodriguez-de-rivera-ortega@exeter.ac.uk<br/>
+            Office: Department of Mathematics and Statistics, University of Exeter, Exeter
         </div>
         <div class="span5">
         <a href="../assets/headshot1.jpeg">
@@ -23,7 +23,7 @@ keywords: Statistical Ecology, Species Distribution Models, Spatio-Temporal Mode
 </div>
 ---
 
-I am Statistical Ecologist working as a Lecturer in Statistics at the University of Kent. My research involves the deveopment and use of complex spatio‐temporal statistical models, geographic information systems (GIS), and working collaboratively in a multi‐disciplinary environment.
+I am Statistical Ecologist working as a Lecturer in Statistics at the University of Exeter. My research involves the deveopment and use of complex spatio‐temporal statistical models, geographic information systems (GIS), and working collaboratively in a multi‐disciplinary environment.
 
 My research interests include:
 
@@ -36,7 +36,9 @@ All of my papers can be found on my [Google Scholar page](https://scholar.google
 
 ### Bio sketch
 
-Since June 2019, I am working at the University of Kent first as a Postdoctoral Researcher in Statistics, at the Statistical Ecology group and since 2021 as Lecturer in Statistics (temporary contract - teaching focus).
+Since May 2023 I am working at the University of Exeter as Lecturer in Statistics (Data Science \& Environmental Intelligence).
+
+Previously, from June 2019 to April 2023, I was working at the University of Kent first as a Postdoctoral Researcher in Statistics, at the Statistical Ecology group and since 2021 as Lecturer in Statistics (temporary contract - teaching focus).
 
 Between 2013 and 2018, I did my PhD in Statistics at the School of Mathematics of the University of Valencia, under the supervision of Antonio Lopez-Quilez and Marta Blangiardo. I worked on Spatio Temporal models of Species distribution. My thesis is available online: Spacio temporal modeling of species distribution.
 
