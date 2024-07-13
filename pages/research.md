@@ -53,8 +53,6 @@ Juncal Espinosa, **Oscar Rodriguez de Rivera**, Javier Madrigal, Mercedes Guijar
 ---<u>Submitted
 
 **Oscar Rodriguez de Rivera**, Antonio López-Quílez, Marta Blangiardo and, Martyna Wasilewska. (2020). A spatio-temporal model to understand forest fires causality in Europe. arXiv preprint  arXiv:2003.05227 (2020). 14 Pages (Submitted to International Journal of Wildland Fire).}
-
-**Oscar Rodriguez de Rivera**, Juncal Espinosa, Javier Madrigal and, Marta Blangiardo. (2021). A point-process spatio temporal model to understand wildfires in the Mediterranean basin. (Submitted to JABES).      
   
 ---<u>In Preparation
     
