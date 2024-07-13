@@ -12,7 +12,7 @@ description: Oscar Rodriguez de Rivera's research
 <u>Papers Published
 
 
-**Óscar Rodríguez de Rivera**, Juncal Espinosa, Javier Madrigal, Marta Blangiardo, and Antonio López-Quílez. Spatio-Temporal Marked Point Process Model to Understand Forest Fires in the Mediterranean Basin. Journal of Agricultural, Biological and Environmental Statistics (2024): 1-30. [link] (https://doi.org/10.1007/s13253-024-00617-x).
+**Óscar Rodríguez de Rivera**, Juncal Espinosa, Javier Madrigal, Marta Blangiardo, and Antonio López-Quílez. Spatio-Temporal Marked Point Process Model to Understand Forest Fires in the Mediterranean Basin. Journal of Agricultural, Biological and Environmental Statistics (2024): 1-30. [link](https://doi.org/10.1007/s13253-024-00617-x).
 
 Harrison, Mark E., Nicolas J. Deere, Muhammad Ali Imron, Darmae Nasir, Hastin Ambar Asti, Joana Aragay Soler, Nicholas C. Boyd et al. Impacts of fire and prospects for recovery in a tropical peat forest ecosystem. Proceedings of the National Academy of Sciences of the United States of America 121, no. 17 (2024): e2307216121. https://doi.org/10.1073/pnas.2307216121
 
