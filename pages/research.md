@@ -11,6 +11,13 @@ description: Oscar Rodriguez de Rivera's research
 
 <u>Papers Published
 
+
+**Óscar Rodríguez de Rivera**, Juncal Espinosa, Javier Madrigal, Marta Blangiardo, and Antonio López-Quílez. Spatio-Temporal Marked Point Process Model to Understand Forest Fires in the Mediterranean Basin. Journal of Agricultural, Biological and Environmental Statistics (2024): 1-30. https://doi.org/10.1007/s13253-024-00617-x
+
+Harrison, Mark E., Nicolas J. Deere, Muhammad Ali Imron, Darmae Nasir, Hastin Ambar Asti, Joana Aragay Soler, Nicholas C. Boyd et al. Impacts of fire and prospects for recovery in a tropical peat forest ecosystem. Proceedings of the National Academy of Sciences of the United States of America 121, no. 17 (2024): e2307216121. https://doi.org/10.1073/pnas.2307216121
+
+Madrigal, Javier, **Óscar Rodríguez de Rivera**, Cristina Carrillo, Mercedes Guijarro, Carmen Hernando, José A. Vega, Pablo Martin-Pinto, Juan R. Molina, Cristina Fernández, and Juncal Espinosa. Empirical Modelling of Stem Cambium Heating Caused by Prescribed Burning in Mediterranean Pine Forest. Fire 6, no. 11 (2023): 430. https://doi.org/10.3390/fire6110430
+
 Megan Laxton, **Oscar Rodriguez de Rivera**,and Janine Illian.(2021).Using Complex Spatio‐temporal Structures to Account for Population Dynamics in Species Distribution Models. (In Press in Methods in Ecology and Evolution; Invited paper for special issue: Realising the promise of large data and complex models).      
       
 Rafaela Cobuci Cerqueira, **Oscar Rodriguez de Rivera**, Jochen A. G. Jaeger and, Clara Grilo. (2021). Directandindirecteffectsof roads on space use by jaguars in Brazil. Scientific Reports. https://doi.org/10.1038/s41598‐021‐01936‐6
